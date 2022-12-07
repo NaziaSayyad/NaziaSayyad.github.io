@@ -15,15 +15,16 @@ export function AboutSection() {
             />
           </div>
           <div>
-            <h2>
+            {/* <h2>
               I am <span>Nazia </span>{" "}
-            </h2>
+            </h2> */}
             <p>
 A Highly enthusiastic and hardworking developer, with 
-strong descion making,
-,communication,,collaboration skills with  good attention
+strong descion making, communication,
+collaboration skills with  good attention
  to detail and with the ability to write efficient code using MERN Stack.
-
+</p>
+<p>
 I have been making apps since last 8 months using 
 backend, JS and its framework.
 
