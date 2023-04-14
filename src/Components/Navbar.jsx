@@ -58,8 +58,8 @@ const Reload = () => {
             alignItems={"center"}
           >
             <Box  className={styles.myLogo} onClick={Reload}>
-              <p> Nazia </p>
-              {/* <Avatar
+              {/* <p> Nazia </p> */}
+              <Avatar
                onClick={Reload}
                boxSize={["10","12","14","16"]}
                borderRadius="full"
@@ -67,8 +67,8 @@ const Reload = () => {
               //  mt={['3','4','4','4']}
               //  ml={['1','1','1','2']}
                 size={"md"}
-                src="final logo.png"
-              /> */}
+                src="logo.png"
+              />
             </Box>
             <HStack
               as={"nav"}

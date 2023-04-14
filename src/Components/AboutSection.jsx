@@ -9,7 +9,7 @@ export function AboutSection() {
         <div className={styles.mainCont}>
           <div className={styles.profilePicCont}>
             <img
-              src="https://avatars.githubusercontent.com/u/105919527?v=4"
+              src="pic"
               alt=""
               className={styles.profilePic}
             />
@@ -19,20 +19,15 @@ export function AboutSection() {
               I am <span>Nazia </span>{" "}
             </h2> */}
             <p>
-A Highly enthusiastic and hardworking developer, with 
-strong descion making, communication,
-collaboration skills with  good attention
- to detail and with the ability to write efficient code using MERN Stack.
-</p>
-<p>
-I have been making apps since last 8 months using 
-backend, JS and its framework.
-
-As I grow and flourish as a Developer, one thing which keeps me going 
-is my inquisitiveness for discovering new things every day.
- 
-
+              A highly enthusiastic and hardworking developer,with
+              strong decision making, communication,
+              collaboration skills and good attention
+              to detail with the ability to write efficient code using MERN stack technologies.
             </p>
+            <p>
+            As I grew and flourish as a developer,
+            I have been building applications from past couple of months using MERN stack technologies.
+              </p>
           </div>
         </div>
       </Fade>
