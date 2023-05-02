@@ -11,14 +11,15 @@ import { SkillsSection } from "./Components/SkillsSection"
 
 function App() {
   return (
+    // navbar, about, skills, projects, contact
     <div className="App">
-      <Navbar />
+      <div id="navbar"> <Navbar /> </div>
       <HeroSection />
-      <AboutSection />
-      <SkillsSection />
+      <div id="about"> <AboutSection /> </div>
+        <div id="skills">       <SkillsSection /> </div>
       <GithubStat/>
-      <ProjectsSection />
-      <ContactSection />
+      <div id="projects"> <ProjectsSection /> </div>
+      <div id="contact"> <ContactSection /> </div>
     </div>
   )
 }

@@ -9,7 +9,7 @@ export function AboutSection() {
         <div className={styles.mainCont}>
           <div className={styles.profilePicCont}>
             <img
-              src="pic"
+              src="pic.jpeg"
               alt=""
               className={styles.profilePic}
             />
@@ -23,6 +23,7 @@ export function AboutSection() {
               strong decision making, communication,
               collaboration skills and good attention
               to detail with the ability to write efficient code using MERN stack technologies.
+              {/* A highly */}
             </p>
             <p>
             As I grew and flourish as a developer,
