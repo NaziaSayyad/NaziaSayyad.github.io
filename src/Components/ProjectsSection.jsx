@@ -16,7 +16,7 @@ const projects = [
   {
     name: "Nyka Project",
     img: "https://images.moneycontrol.com/static-mcnews/2021/11/Nykaa-On-Trend-Store-Sobhacity-Thrissur-580x435.jpg",
-    link: "https://chimerical-chimera-b05f10.netlify.app/",
+    link: "https://stunning-toffee-486104.netlify.app/",
 
     git: "https://github.com/NaziaSayyad/NykaProject.git",
     about:`The Nykaa website which deals in fashion items is made with the help of a team of 5 member, Different functionality such as sorting of items based on price,rating is provided in the website  to get the details very easily  in which user can buy items in very satisfactory way.`,

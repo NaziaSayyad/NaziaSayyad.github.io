@@ -13,8 +13,10 @@ const GithubStat = () => {
       }}>Github Calender and Stats</p>
         {/* <Text color="#383874" textAlign={"center"} mb={8} fontSize={{ base: "xl", md: "3xl" }}>Github Calender and Stats</Text> */}
       <div className={styles.Github}>
-        
-        <GitHubCalendar username="NaziaSayyad" className="calender" />
+        <GitHubCalendar 
+        username="NaziaSayyad" 
+        className="calender" 
+        />
       </div>
       <div className={styles.Github}>
         <a href="https://github.com/NaziaSayyad" rel="noreferrer" target="_blank">
@@ -31,5 +33,4 @@ const GithubStat = () => {
     </div>
   );
 };
-
 export default GithubStat;
